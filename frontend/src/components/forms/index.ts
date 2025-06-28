@@ -1,0 +1,1 @@
+export { default as NewsInput } from './NewsInput'; 
