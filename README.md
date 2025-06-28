@@ -19,14 +19,14 @@ target klasöründeki jar dosyasını çalıştırın:
 
 ```
 cd ..
-java -jar backend/target/backend.jar
+java -jar backend/target/korona-0.0.1-SNAPSHOT.jar
 ```
 
 ya da farklı port ya da database ile çalıştırmak istenirse:
 
 ```
 cd ..
-java -jar backend.jar --spring.data.mongodb.uri=mongodb://localhost:27017/news
+java -jar backend/target/korona-0.0.1-SNAPSHOT.jar --spring.data.mongodb.uri=mongodb://localhost:27017/news
 ```
 
 
