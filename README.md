@@ -53,4 +53,10 @@ Default mongodb konfigürasyonu:
 ```
 spring.data.mongodb.uri=mongodb://localhost:27017/news
 ```
+## Ekran Görüntüleri
+
+<img src="https://github.com/user-attachments/assets/52acbe82-3df3-4359-b9d7-d2a6fc64f695" width="400" />
+<img src="https://github.com/user-attachments/assets/f6a45f84-7297-4282-b873-15f5b7ce539b" width="400" />
+<img src="https://github.com/user-attachments/assets/0060f5b6-fc84-49e8-95dd-e19e02f554a5" width="400" />
+
 
